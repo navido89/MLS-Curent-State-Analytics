@@ -43,6 +43,7 @@ The goal of this analysis is to examine the current state of Analytics in Major 
 + Python
 + NumPy 
 + Pandas 
++ Seaborn
 + Matplotlib
 
 ## Project Description:
