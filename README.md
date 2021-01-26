@@ -23,8 +23,13 @@
 ## Project Objective
 [(Back to top)](#table-of-contents)
 <br>
-The purpose of this project is to examine the current data science job market in California. Which city has the most job posts in CA and offers more opportunities? As a current Data Science Master's student, I wanted to find out which jobs a master's degree holder would be eligible to apply for and what skills are most in-demand.
+The goal of this analysis is to examine the current state of Analytics in Major League Soccer (MLS). How do clubs structure their analytics department, and what kind of positions entail data-related tasks. The majority of MLS franchises follow the culture of being data-driven decision-makers on the club’s business side. However, there has also been a tremendous rise of clubs using data in their decision-making regarding the sporting side. The focus of this report lies from the soccer operations perspective. With over four years of analytics experience within the MLS, I wanted to analyze the current state of analytics within the league. The questions that I am trying to answer are the following:
++ What is each team’s current state about staffing? Specifically, we only look at positions that involve working with data.
++ Is there a difference in terms of staffing between the Eastern and Western Conference?
++ How does data flow throughout the different departments within soccer operations?
 <br>
+<p align="center">
+<img src="Images/IMG_0370.JPG" style>
 
 ## Methods Used
 [(Back to top)](#table-of-contents)
