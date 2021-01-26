@@ -10,7 +10,7 @@
 <br>
 <a href="https://nbviewer.jupyter.org/github/navido89/MLS-Curent-State-Analytics/blob/master/MLS-Analytics%20.ipynb">Jupyter Notebook Viewer</a>
 <br>
-<a href="https://towardsdatascience.com/california-data-science-job-market-analysis-b42d7c82ab00" target="_blank">Read Article</a>
+<a href="https://towardsdatascience.com/major-league-soccer-analytics-9fc76891c440" target="_blank">Read Article</a>
 
 ## Table of contents
 - [Project Objective](#project-objective)
